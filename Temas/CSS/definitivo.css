@@ -56,7 +56,9 @@ img{
     padding: 1px;
 }
 div#perguntas{
+    display: flex;
     margin-bottom: 20px;
+    margin-left: 20px;
 }
 div.contEscrito{
     text-align: justify;
@@ -88,4 +90,7 @@ div.contDes{
 }
 div#backGo{
     display:flex
+}
+img#qrCode{
+    margin-left: 300px;
 }

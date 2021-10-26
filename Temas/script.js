@@ -288,6 +288,7 @@ function iniciar() {
         caminhoOpcoes.innerHTML += `<input type="radio" id="pergs${i}" class="radios" name="opcoes" class="botoes">${questao.tema[i]}<br>` //botões radio (botoes de bolinha), sendo inseridas na div que criei
     }
     caminhoOpcoes.innerHTML += `<br><input type="button" value="ENVIAR" onclick="enviar()" id="btn">`// botão de enviar na nova div
+    perguntas.innerHTML += `<img src="qrCode_SAmarelo.png" id="qrCode">`
 }
 function enviar() {
     const res = document.querySelector("div#res")
