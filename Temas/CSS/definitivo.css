@@ -1,0 +1,91 @@
+body{
+    background-image: url(imgTeste.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 2px black;
+    font-size: 18px;
+}
+div#allResps{
+    display:flex;
+    flex-direction: column;
+}
+div#linha1{
+    display:flex;
+    flex-direction: row;
+    margin: auto;
+    margin-bottom: 50px;
+}
+div#linha2{
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+}
+h1#titulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+}
+section#all{
+    margin: 30px;   
+}
+input#btn{
+    border: 1px solid rgba(0, 0, 0, 0.658);
+    background-color: #ff9900c2;
+    box-shadow: 0 5px 0 #b36b00;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input#btn:hover{
+    background-color: #cc7a00;
+    box-shadow: 0 5px 0 #995c00;
+}
+input#btn:active{
+    box-shadow: none;
+    position:relative;
+    top:5px;
+}
+img{
+    height: 300px;
+    border: 1px solid black;
+    padding: 1px;
+}
+div#perguntas{
+    margin-bottom: 20px;
+}
+div.contEscrito{
+    text-align: justify;
+    max-width: 350px;
+    margin-right: 20px;
+    padding:20px;
+}
+div.contDes{
+    margin-right:20px;
+}
+.btn {
+    cursor:pointer;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 10px 25px;
+    margin: 150px 30px;
+    background-color: #f39c12;
+    border: solid 1px #f39c12;
+    height: 27px;
+    border-radius: 100%;
+    transition: .5s;
+    text-align: center;
+}    
+.btn:hover {
+    background-color: #e67e22;
+    color: black;
+    box-shadow: 0 2px 3px #f39c12 ;
+}
+div#backGo{
+    display:flex
+}

@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 88px;
+}
+p {
+    font-size: 20px;
+}
+p#devs{
+    font-size: 15px;
+}
+.btn {
+cursor:pointer;
+text-decoration: none;
+color: white;
+display: inline-block;
+padding: 10px 25px;
+margin: 150px 30px;
+background-color: #f39c12;
+border: solid 1px #f39c12;
+border-radius: 5px;
+transition: .5s;
+}
+
+.btn:hover {
+    background-color: #e67e22;
+    color: black;
+    box-shadow: 0 2px 3px #f39c12 ;
+}
+
+    
