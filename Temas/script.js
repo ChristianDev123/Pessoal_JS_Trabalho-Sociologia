@@ -8,6 +8,7 @@ var temas = [
     "Assédio Sexual",
     "Racismo anti-Indígena",
     "Anorexia e Bulimia",
+    "Gordofobia"
 ]
 var questao = {
     pergunta: "Selecione um tema para conhecer:",
@@ -164,6 +165,7 @@ var textos = [
         Malditas circunstâncias, que  nos obrigam a usar máscaras.<br><br>
         "Mas tudo vai ficar bem, e essas feridas vão se curar"`,
     ],
+    [],
 ]
 var autoTxt = [
     [],
@@ -183,7 +185,8 @@ var autoTxt = [
     [//Bulimia e Anorexia(Padrões Estéticos)
         "Guilherme Kanhwald_1E",
         "Guilherme Kanhwald 1ºE",
-    ]
+    ],
+    []
 ]
 var imagens = [
     [// Homofobia
@@ -220,6 +223,9 @@ var imagens = [
         "Imagens/imagem_Padroes Esteticos_Guilherme Kanhwald.jpeg",
         "Imagens/imagem_Fabrício_3B_Pressao-Estetica.jpeg",
 
+    ],
+    [// Gordofobia
+        "Imagens/imagem_Gordofobia_Andressa_1ºE.jpeg"
     ]
 ]
 var autoImg = [
@@ -256,6 +262,9 @@ var autoImg = [
         "Josias 2D",
         "Guilherme kanhwald 1ºE",
         "Fabrício 3ºB"
+    ],
+    [// Gordofobia
+        "Andressa 1ºE"
     ]
 ]
 var arquivos = {
