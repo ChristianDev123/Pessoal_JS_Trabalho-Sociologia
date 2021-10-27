@@ -191,9 +191,14 @@ var autoTxt = [
 var imagens = [
     [// Homofobia
         "Imagens/imagem_Homofobia_Ana Luiza_1E.jpeg",
+        "Imagens/imagem_Homofobia_Maria Eduarda Tesso_1E.jpeg",
     ],
     [//Racismo Anti-Negro
         "Imagens/Imagem2_Lucca_3C_Racismo-Anti-Negro.jpeg",
+        "Imagens/imagem_Racismo-Anti-Negro_Maria Luiza_1Ejpeg.jpeg",
+        "Imagens/imagem_Racismo-Anti-Negro_Maria_1E.jpeg",
+        "Imagens/imagem_Racismo-Anti-Negro_Moacir_2B_img2.jpeg",
+        "Imagens/imagem_Racismo-Anti-Negro_Moacir_2B.jpeg"
     ],
     [// Transfobia
         "Imagens/imagem_Sentimentos_Fabricio.jpeg",
@@ -205,6 +210,8 @@ var imagens = [
         "Imagens/imagem_Isolamento_Fabricio_3B_Racismo-Asiatico.jpeg",
         "Imagens/imagem_Pablo_2B_Racismo_Anti-Asiatico.jpeg",
         "Imagens/imagem_Pablo_2B_Racismo_Anti_Asiatico_img2.jpeg",
+        "Imagens/imagem_Racismo-Anti-Asiatico_Moacir_2B.jpeg",
+        "Imagens/imagem_Racismo-Anti-Asiatico_Andressa_1E.jpeg",
     ],
     [// Discriminação PCD
         "Imagens/Imagem_Andressa_PCD_1E.jpeg",
@@ -230,22 +237,28 @@ var imagens = [
 ]
 var autoImg = [
     [// Homofobia
-        "Ana Luiza 1ºE"
+        "Ana Luiza 1ºE",
+        "Maria Eduarda Tesso 1ºE",
     ],
     [//Racismo Anti-Negro
-        "Lucca 3ºC"
+        "Lucca 3ºC",
+        "Maria Luiza 1ºE",
+        "Maria 1ºE",
+        "Moacir 2ºB",
+        "Moacir 2ºB",
     ],
     [// Transfobia
         "Fabrício 3ºB",
         "Ana Luiza 1ºE",
         "Andressa 1ºE",
-        "Pablo 1ºE"
-
+        "Pablo 2ºB",
     ],
     [// Racismo contra Asiáticos
         "Fabricio 3ºB",
         "Pablo 2ºB",
         "Pablo 2ºB",
+        "Moacir 2ºB",
+        "Andressa 1ºE",
     ],
     [// Discriminação PCD
         "Andressa 1ºE",
